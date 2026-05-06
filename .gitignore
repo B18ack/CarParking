@@ -9,6 +9,10 @@ UserSettings/
 
 # Visual Studio / Rider
 .vs/
+.vsconfig
+CarControler
+*.slnx
+.vs/
 *.csproj
 *.unityproj
 *.sln
